@@ -1,0 +1,27 @@
+body {
+	background-color: #FFFACD;
+}
+p {
+	color: #556B2F;
+	font-size: 25px;
+	margin-top: 17px;
+}
+h1 {
+	color:#DC143C;
+}
+
+table {
+	color: #00FF00;
+	font-size:20px;
+}
+
+img {
+ width: 500px; 
+}
+
+body {
+	margin-top: 50px;
+	border-size: 10px;
+	padding-left: 400px;
+	font-family: Courier, monospace;
+}
